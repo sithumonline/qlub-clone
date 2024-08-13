@@ -137,17 +137,17 @@ export default function Page() {
         </p>
         <div className="flex flex-row pb-8">
           <Image
-            src="https://qlub.io/wp-content/uploads/2022/11/visa.png"
+            src="/qlub-clone/visa.png"
             alt="Visa"
             className="xs:w-[90px] xs:h-[42px]"
           />
           <Image
-            src="https://qlub.io/wp-content/uploads/2022/11/master-card.png"
+            src="/qlub-clone/master-card.png"
             alt="Master Card"
             className="xs:w-[90px] xs:h-[42px]"
           />
           <Image
-            src="https://qlub.io/wp-content/uploads/2022/11/American-Express.png"
+            src="/qlub-clone/American-Express.png"
             alt="American Express"
             className="xs:w-[90px] xs:h-[42px]"
           />
