@@ -140,16 +140,22 @@ export default function Page() {
             src="/qlub-clone/visa.png"
             alt="Visa"
             className="xs:w-[90px] xs:h-[42px]"
+            width={90}
+            height={42}
           />
           <Image
             src="/qlub-clone/master-card.png"
             alt="Master Card"
             className="xs:w-[90px] xs:h-[42px]"
+            width={90}
+            height={42}
           />
           <Image
             src="/qlub-clone/American-Express.png"
             alt="American Express"
             className="xs:w-[90px] xs:h-[42px]"
+            width={90}
+            height={42}
           />
         </div>
       </section>
