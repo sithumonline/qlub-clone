@@ -137,17 +137,17 @@ export default function Page() {
         </p>
         <div className="flex flex-row pb-8">
           <Image
-            src="/nextjs-github-pages/visa.png"
+            src="https://qlub.io/wp-content/uploads/2022/11/visa.png"
             alt="Visa"
             className="xs:w-[90px] xs:h-[42px]"
           />
           <Image
-            src="/nextjs-github-pages/master-card.png"
+            src="https://qlub.io/wp-content/uploads/2022/11/master-card.png"
             alt="Master Card"
             className="xs:w-[90px] xs:h-[42px]"
           />
           <Image
-            src="/nextjs-github-pages/American-Express.png"
+            src="https://qlub.io/wp-content/uploads/2022/11/American-Express.png"
             alt="American Express"
             className="xs:w-[90px] xs:h-[42px]"
           />
